@@ -13,8 +13,8 @@
 **Conceptual Diagram on a Napkin**
 ![Recreate conceptual diagram on a tissue (since I didn't have any napkins)](assets/conceptual-diagram-napkin.png)
 ## Homework Challenges
-- [ ] Set MFA
-- [ ] Create an IAM Role
+- [x] Set MFA
+- [x] Create an IAM Role
 - [ ] Use EventBridge to hookup Health Dashboard to SNS and send notification when there is a service health issue
 - [ ] Review all the questions of each pillars in the Well Architected Tool (No specialized lens)
 - [ ] Create an architectural diagram (to the best of your ability) the CI/CD logical pipeline in Lucid Charts
