@@ -11,7 +11,7 @@
 - [ ] Create a Budget
 
 **Conceptual Diagram on a Napkin**
-![image](/assets/conceptual-diagram-napkin.png)
+![Recreate conceptual diagram on a tissue (since I didn't have any napkins)](assets/conceptual-diagram-napkin.png)
 ## Homework Challenges
 - [ ] Set MFA
 - [ ] Create an IAM Role
