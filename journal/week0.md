@@ -1,7 +1,7 @@
 # Week 0 — Billing and Architecture
 
 ## Required Homework
-- [ ] Conceptual Diagram on a Napkin
+- [x] Conceptual Diagram on a Napkin
 - [ ] Logical Diagram on Lucidcharts
 - [ ] Create an admin user
 - [ ] Use CloudShell
@@ -11,7 +11,7 @@
 - [ ] Create a Budget
 
 **Conceptual Diagram on a Napkin**
-![image](assets/conceptual-diagram-napkin)
+![image](/assets/conceptual-diagram-napkin.png)
 ## Homework Challenges
 - [ ] Set MFA
 - [ ] Create an IAM Role
