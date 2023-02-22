@@ -11,3 +11,5 @@ tasks:
 vscode:
   extensions:
     - 42Crunch.vscode-openapi
+gitConfig:
+  user.email: 120209053+realfr@users.noreply.github.com
