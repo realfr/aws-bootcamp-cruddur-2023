@@ -2,7 +2,7 @@
 
 ## Required Homework
 - [x] Conceptual Diagram on a Napkin
-- [ ] Logical Diagram on Lucidcharts
+- [x] Logical Diagram on Lucidcharts
 - [ ] Create an admin user
 - [ ] Use CloudShell
 - [ ] Generate AWS Credentials
@@ -12,6 +12,12 @@
 
 **Conceptual Diagram on a Napkin**
 ![Recreate conceptual diagram on a tissue (since I didn't have any napkins)](assets/conceptual-diagram-napkin.png)
+
+
+**Logical Diagram on LucidCharts**
+Recreating the diagram was pretty easy for me as I often make diagrams for work on Figma, and sometimes on Mural and LucidChart.
+My recreation can be viewed [here](https://lucid.app/lucidchart/92af5eaa-4661-46af-b771-517b3f12dad0/edit?viewport_loc=-786%2C-1134%2C5120%2C2388%2C0_0&invitationId=inv_d7a5ab26-5316-45d9-8cc0-432969284034)
+
 ## Homework Challenges
 - [x] Set MFA
 - [x] Create an IAM Role
