@@ -11,7 +11,7 @@
 - [x] Containerize Application (Dockerfiles, Docker Compose)
 - [x] Document the Notification Endpoint for the OpenAI Document
 - [x] Write a Flask Backend Endpoint for Notifications
-- [ ] Write a React Page for Notifications
+- [x] Write a React Page for Notifications
 - [ ] Run DynamoDB Local Container and ensure it works
 - [ ] Run Postgres Container and ensure it works
 
@@ -61,6 +61,11 @@
 
 ![add notifications route](assets/week1/add-notifications-route.png)
 ![notification service](assets/week1/notifications.png)
+
+### Write a React Page for Notifications
+
+It works!
+![Notifications page works](assets/week1/frontend-notifications-work.png)
 
 ---
 
