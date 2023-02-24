@@ -42,7 +42,9 @@
   - had to build the frontend and backend containers and have them running in the background when I do `docker-compose up`
   - tried following instructions again from the top
   - I had to build the backend again and then run it in the background using `docker container run --rm -p 4567:4567 -e FRONTEND_URL='*' -e BACKEND_URL='*' -d backend-flask`
-  - The solution was simple
+  - The solution
+    - I added a task which tells gitpod to install dependencies. I found it on the discord.
+      ![Gitpod npm install task](assets/week1/gitpod-npm-install-task.png)
     - Thanks to the help of anle4s#7774 on discord, they realised that I just had to move the `docker-compose.yml` file to the root directory.
     - I was shocked, and double checked Andre's repo and sure enough that's where it was placed. But I had been following from the video and I thought he placed it in the frontend-react-js directory (which at the time I thought was odd, since it's supposed to spin up both front and backend, but thought maybe it was just a best practice thing).
       ![Containers running, ports served](assets/week1/containers-ports-running.png)
