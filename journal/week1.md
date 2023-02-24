@@ -9,8 +9,8 @@
 - [ ] Watched Chirag's Week 1 - Spending Considerations
 - [ ] Watched Ashish's Week 1 - Container Security Considerations
 - [x] Containerize Application (Dockerfiles, Docker Compose)
-- [ ] Document the Notification Endpoint for the OpenAI Document
-- [ ] Write a Flask Backend Endpoint for Notifications
+- [x] Document the Notification Endpoint for the OpenAI Document
+- [x] Write a Flask Backend Endpoint for Notifications
 - [ ] Write a React Page for Notifications
 - [ ] Run DynamoDB Local Container and ensure it works
 - [ ] Run Postgres Container and ensure it works
@@ -52,6 +52,15 @@
       ![Frontend loads messagaes fine](assets/week1/frontend-working.png)
 
 - I learned to never assume and also to double check the instructions because it does say to create the file at the root of the project, in the week1 journal entry in Andrew's repo.
+
+### Document the notification endpoint on OpenAPI
+
+![add activities to OpenAPI](assets/week1/added-activities-to-open-api.png)
+
+### Write a Flask Backend Endpoint for Notifications
+
+![add notifications route](assets/week1/add-notifications-route.png)
+![notification service](assets/week1/notifications.png)
 
 ---
 
